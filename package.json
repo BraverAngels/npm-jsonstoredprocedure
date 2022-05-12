@@ -1,0 +1,20 @@
+{
+  "name": "json-stored-procedure",
+  "version": "1.0.0",
+  "description": "NPM package using mysql to access a database to execute a stored procedure to return an array of JSON objects or a unique JSON object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BraverAngels/npm-jsonstoredprocedure.git"
+  },
+  "keywords": [],
+  "author": "Braver Angels Automations",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BraverAngels/npm-jsonstoredprocedure/issues"
+  },
+  "homepage": "https://github.com/BraverAngels/npm-jsonstoredprocedure#readme"
+}
