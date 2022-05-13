@@ -1,6 +1,6 @@
 {
   "name": "json-stored-procedure",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NPM package using mysql to access a database to execute a stored procedure to return an array of JSON objects or a unique JSON object.",
   "main": "JSONStoredProcedure.mjs",
   "scripts": {
